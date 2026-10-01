@@ -1,0 +1,240 @@
+{"kind":"deck","id":"pr/iz1itf","name":"Deck"}
+{"kind":"layout","layoutId":"043707fb-a551-4241-88a2-58b6f1630cae","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"f3d41b80-663d-42ea-a46e-97e5ab96298b","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/ft6us8","slide":1,"title":"从小龙虾壳","textShapes":4}
+{"kind":"shape","id":"sh/tsbm5cfi","slide":1,"bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/sr25c7ex","slide":1,"text":"从小龙虾壳\n到环保塑料袋","textPreview":"从小龙虾壳 | 到环保塑料袋","textChars":12,"textLines":2,"bbox":[72,170,720,170]}
+{"kind":"textbox","id":"sh/fed47mx8","slide":1,"text":"一场面向零基础观众的材料化学导览","textPreview":"一场面向零基础观众的材料化学导览","textChars":16,"textLines":1,"bbox":[76,370,640,46]}
+{"kind":"textbox","id":"sh/ed4nehw3","slide":1,"text":"原料 → 反应 → 成膜 → 袋子 → 证据边界","textPreview":"原料 → 反应 → 成膜 → 袋子 → 证据边界","textChars":24,"textLines":1,"bbox":[76,450,700,34]}
+{"kind":"textbox","id":"sh/1gvm9cfe","slide":1,"text":"基于项目视频、研究底稿与开放获取论文","textPreview":"基于项目视频、研究底稿与开放获取论文","textChars":18,"textLines":1,"bbox":[76,630,620,22]}
+{"kind":"image","id":"im/7idg3mps","slide":1,"name":"","alt":"小龙虾壳处理、薄膜和袋子演示画面","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/ft6us8","slide":1,"text":"封面画面来自项目视频抽帧。全套内容依据研究底稿.md、项目视频以及 6 篇开放获取论文整理。\n提示观众：今天讲的是材料路线和化学原理，也会讲清楚哪些结论尚未被验证。"}
+{"kind":"slide","id":"sl/pw01oh","slide":2,"title":"小龙虾壳制环保塑料袋","textShapes":14}
+{"kind":"textbox","id":"sh/d83i5kba","slide":2,"text":"小龙虾壳制环保塑料袋","textPreview":"小龙虾壳制环保塑料袋","textChars":10,"textLines":1,"bbox":[64,34,360,24]}
+{"kind":"textbox","id":"sh/q5szupsz","slide":2,"text":"一只虾壳，为什么有机会变成薄膜？","textPreview":"一只虾壳，为什么有机会变成薄膜？","textChars":16,"textLines":1,"bbox":[64,66,1120,58]}
+{"kind":"shape","id":"sh/r61g3utk","slide":2,"bbox":[64,132,1152,0]}
+{"kind":"textbox","id":"sh/lc3i94bm","slide":2,"text":"虾壳不是单一材料","textPreview":"虾壳不是单一材料","textChars":8,"textLines":1,"bbox":[68,182,560,44]}
+{"kind":"textbox","id":"sh/y9czypsv","slide":2,"text":"它是一种天然复合结构：矿物、蛋白质和几丁质彼此交织。","textPreview":"它是一种天然复合结构：矿物、蛋白质和几丁质彼此交织。","textChars":26,"textLines":1,"bbox":[68,238,560,62]}
+{"kind":"shape","id":"sh/zal07utg","slide":2,"bbox":[72,340,22,22]}
+{"kind":"textbox","id":"sh/8zeh4jax","slide":2,"text":"碳酸钙","textPreview":"碳酸钙","textChars":3,"textLines":1,"bbox":[110,336,140,30]}
+{"kind":"textbox","id":"sh/90nid4bi","slide":2,"text":"让外壳硬，但会妨碍成膜","textPreview":"让外壳硬，但会妨碍成膜","textChars":11,"textLines":1,"bbox":[270,336,360,36]}
+{"kind":"shape","id":"sh/xc7qlkju","slide":2,"bbox":[72,422,22,22]}
+{"kind":"textbox","id":"sh/wbypsfip","slide":2,"text":"蛋白质","textPreview":"蛋白质","textChars":3,"textLines":1,"bbox":[110,418,140,30]}
+{"kind":"textbox","id":"sh/bap8za14","slide":2,"text":"需要先去除，减少杂质","textPreview":"需要先去除，减少杂质","textChars":10,"textLines":1,"bbox":[270,418,360,36]}
+{"kind":"shape","id":"sh/a9g7qp0j","slide":2,"bbox":[72,504,22,22]}
+{"kind":"textbox","id":"sh/5grqp4j6","slide":2,"text":"几丁质","textPreview":"几丁质","textChars":3,"textLines":1,"bbox":[110,500,140,30]}
+{"kind":"textbox","id":"sh/kfi9wzil","slide":2,"text":"真正的高分子骨架","textPreview":"真正的高分子骨架","textChars":8,"textLines":1,"bbox":[270,500,360,36]}
+{"kind":"textbox","id":"sh/jep8nu10","slide":2,"text":"关键转换","textPreview":"关键转换","textChars":4,"textLines":1,"bbox":[72,590,100,24]}
+{"kind":"textbox","id":"sh/ydg7up0f","slide":2,"text":"把“硬壳”拆成可溶解、可浇铸的高分子。","textPreview":"把“硬壳”拆成可溶解、可浇铸的高分子。","textChars":19,"textLines":1,"bbox":[184,588,500,28]}
+{"kind":"textbox","id":"sh/1knqt0j2","slide":2,"text":"讲解材料 · 研究底稿与开放论文整理","textPreview":"讲解材料 · 研究底稿与开放论文整理","textChars":18,"textLines":1,"bbox":[64,686,780,18]}
+{"kind":"textbox","id":"sh/0jepkvih","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1160,680,56,26]}
+{"kind":"image","id":"im/l4v2h8vq","slide":2,"name":"","geometry":"roundRect","alt":"项目视频中的小龙虾壳与粉碎处理","bbox":[720,168,496,432]}
+{"kind":"notes","id":"nt/pw01oh","slide":2,"text":"来源：研究底稿.md 第 1、4 节；项目视频约 0:00–1:20。\n说明：天然壳的主要目标组分是几丁质，壳聚糖通常由几丁质脱乙酰制得。视频中把壳聚糖作为目标物的说法需要用这一层化学关系补充解释。"}
+{"kind":"slide","id":"sl/2dag8a","slide":3,"title":"小龙虾壳制环保塑料袋","textShapes":19}
+{"kind":"textbox","id":"sh/5gzml8ry","slide":3,"text":"小龙虾壳制环保塑料袋","textPreview":"小龙虾壳制环保塑料袋","textChars":10,"textLines":1,"bbox":[64,34,360,24]}
+{"kind":"textbox","id":"sh/it8nqts7","slide":3,"text":"完整路线：从壳到袋，至少要过六道关","textPreview":"完整路线：从壳到袋，至少要过六道关","textChars":17,"textLines":1,"bbox":[64,66,1120,58]}
+{"kind":"shape","id":"sh/3uh4jy9s","slide":3,"bbox":[64,132,1152,0]}
+{"kind":"shape","id":"sh/grq5o3ah","slide":3,"bbox":[64,230,150,176]}
+{"kind":"textbox","id":"sh/hszmh8rm","slide":3,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[82,248,70,24]}
+{"kind":"textbox","id":"sh/uponmtsb","slide":3,"text":"清洗\n干燥\n粉碎","textPreview":"清洗 | 干燥 | 粉碎","textChars":8,"textLines":3,"bbox":[82,292,114,76]}
+{"kind":"shape","id":"sh/vqx4fy9w","slide":3,"bbox":[222,304,28,24]}
+{"kind":"shape","id":"sh/0na50nal","slide":3,"bbox":[254,230,150,176]}
+{"kind":"textbox","id":"sh/1oj6tsr6","slide":3,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[272,248,70,24]}
+{"kind":"textbox","id":"sh/58b6l8vm","slide":3,"text":"酸处理\n去矿物","textPreview":"酸处理 | 去矿物","textChars":7,"textLines":2,"bbox":[272,292,114,76]}
+{"kind":"shape","id":"sh/472ps3e1","slide":3,"bbox":[412,304,28,24]}
+{"kind":"shape","id":"sh/j6tojydg","slide":3,"bbox":[444,230,150,176]}
+{"kind":"textbox","id":"sh/i5k7qtwv","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[462,248,70,24]}
+{"kind":"textbox","id":"sh/h4b6hova","slide":3,"text":"碱处理\n去蛋白","textPreview":"碱处理 | 去蛋白","textChars":7,"textLines":2,"bbox":[462,292,114,76]}
+{"kind":"shape","id":"sh/wj2pojep","slide":3,"bbox":[602,304,28,24]}
+{"kind":"shape","id":"sh/vitofyxk","slide":3,"bbox":[634,230,150,176]}
+{"kind":"textbox","id":"sh/uh07mtwz","slide":3,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[652,248,70,24]}
+{"kind":"textbox","id":"sh/10vqtsvu","slide":3,"text":"浓碱\n脱乙酰","textPreview":"浓碱 | 脱乙酰","textChars":6,"textLines":2,"bbox":[652,292,114,76]}
+{"kind":"shape","id":"sh/0fmp0ne9","slide":3,"bbox":[792,304,28,24]}
+{"kind":"shape","id":"sh/0ju9wrm5","slide":3,"bbox":[824,230,150,176]}
+{"kind":"textbox","id":"sh/lk3apw3q","slide":3,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[842,248,70,24]}
+{"kind":"textbox","id":"sh/yhcruh4f","slide":3,"text":"醋酸溶解\n加入甘油","textPreview":"醋酸溶解 | 加入甘油","textChars":9,"textLines":2,"bbox":[842,292,114,76]}
+{"kind":"shape","id":"sh/zilsnml0","slide":3,"bbox":[982,304,28,24]}
+{"kind":"shape","id":"sh/cfu9srm9","slide":3,"bbox":[1014,230,150,176]}
+{"kind":"textbox","id":"sh/dg3alw3u","slide":3,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1032,248,70,24]}
+{"kind":"textbox","id":"sh/qdcrqh43","slide":3,"text":"浇铸干燥\n裁切封合","textPreview":"浇铸干燥 | 裁切封合","textChars":9,"textLines":2,"bbox":[1032,292,114,76]}
+{"kind":"textbox","id":"sh/bel8jmlo","slide":3,"text":"化学上最关键的三次变化","textPreview":"化学上最关键的三次变化","textChars":11,"textLines":1,"bbox":[70,458,360,28]}
+{"kind":"textbox","id":"sh/oba9o7md","slide":3,"text":"去矿物：让无机硬壳离开\n脱乙酰：把几丁质变成可溶的壳聚糖\n成膜：让分散的高分子重新排成连续薄层","textPreview":"去矿物：让无机硬壳离开 | 脱乙酰：把几丁质变成可溶的壳聚糖 | 成膜：让分散的高分子重新排成连续薄层","textChars":47,"textLines":3,"bbox":[70,500,860,110]}
+{"kind":"shape","id":"sh/pcjqhc3i","slide":3,"bbox":[950,474,256,122]}
+{"kind":"textbox","id":"sh/rm1s72pk","slide":3,"text":"袋子只是最后一步\n前面的材料纯度和分子结构\n决定了它能不能撑住","textPreview":"袋子只是最后一步 | 前面的材料纯度和分子结构 | 决定了它能不能撑住","textChars":31,"textLines":3,"bbox":[976,493,205,90]}
+{"kind":"textbox","id":"sh/6l8ryxoz","slide":3,"text":"讲解材料 · 研究底稿与开放论文整理","textPreview":"讲解材料 · 研究底稿与开放论文整理","textChars":18,"textLines":1,"bbox":[64,686,780,18]}
+{"kind":"textbox","id":"sh/toja9cnq","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1160,680,56,26]}
+{"kind":"notes","id":"nt/2dag8a","slide":3,"text":"来源：研究底稿.md 第 4 节及项目视频。\n提示：视频实际展示了多次酸/碱处理、溶液浇铸和袋子演示，但没有给出足以安全复现的完整条件。本页用流程关系帮助观众建立整体地图，不等于实验 SOP。"}
+{"kind":"slide","id":"sl/jm692z","slide":4,"title":"小龙虾壳制环保塑料袋","textShapes":10}
+{"kind":"textbox","id":"sh/qtgbih8r","slide":4,"text":"小龙虾壳制环保塑料袋","textPreview":"小龙虾壳制环保塑料袋","textChars":10,"textLines":1,"bbox":[64,34,360,24]}
+{"kind":"textbox","id":"sh/dw7adw7i","slide":4,"text":"反应一：酸把碳酸钙从壳里“洗掉”","textPreview":"反应一：酸把碳酸钙从壳里“洗掉”","textChars":16,"textLines":1,"bbox":[64,66,1120,58]}
+{"kind":"shape","id":"sh/cvytkrqx","slide":4,"bbox":[64,132,1152,0]}
+{"kind":"textbox","id":"sh/zi9sf6p8","slide":4,"text":"壳中的矿物主要以碳酸钙存在。加入酸后，会出现肉眼可见的气泡。","textPreview":"壳中的矿物主要以碳酸钙存在。加入酸后，会出现肉眼可见的气泡。","textChars":30,"textLines":1,"bbox":[72,172,1060,38]}
+{"kind":"shape","id":"sh/yx0bm18n","slide":4,"bbox":[80,258,1120,132]}
+{"kind":"textbox","id":"sh/lkrahg7e","slide":4,"text":"CaCO₃  +  2H⁺   →   Ca²⁺  +  CO₂↑  +  H₂O","textPreview":"CaCO₃  +  2H⁺   →   Ca²⁺  +  CO₂↑  +  H₂O","textChars":41,"textLines":1,"bbox":[110,292,1060,62]}
+{"kind":"textbox","id":"sh/kjitob6t","slide":4,"text":"这是一个“酸与碳酸盐反应”的典型例子。","textPreview":"这是一个“酸与碳酸盐反应”的典型例子。","textChars":19,"textLines":1,"bbox":[110,408,540,30]}
+{"kind":"textbox","id":"sh/f25s32p4","slide":4,"text":"气泡来自二氧化碳\n矿物转成可溶的钙盐\n固体骨架变得更轻、更柔软","textPreview":"气泡来自二氧化碳 | 矿物转成可溶的钙盐 | 固体骨架变得更轻、更柔软","textChars":31,"textLines":3,"bbox":[110,452,430,120]}
+{"kind":"shape","id":"sh/e1wrax8j","slide":4,"bbox":[690,430,470,150]}
+{"kind":"textbox","id":"sh/sbm9oze5","slide":4,"text":"为什么必须先去矿？","textPreview":"为什么必须先去矿？","textChars":9,"textLines":1,"bbox":[720,452,410,28]}
+{"kind":"textbox","id":"sh/dcvqx4vq","slide":4,"text":"因为无机矿物不溶于后续的醋酸成膜体系，会让膜粗糙、脆，甚至难以连续成形。","textPreview":"因为无机矿物不溶于后续的醋酸成膜体系，会让膜粗糙、脆，甚至难以连续成形。","textChars":36,"textLines":1,"bbox":[720,490,400,72]}
+{"kind":"textbox","id":"sh/q9krm9wf","slide":4,"text":"讲解材料 · 研究底稿与开放论文整理","textPreview":"讲解材料 · 研究底稿与开放论文整理","textChars":18,"textLines":1,"bbox":[64,686,780,18]}
+{"kind":"textbox","id":"sh/rat8vud0","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1160,680,56,26]}
+{"kind":"notes","id":"nt/jm692z","slide":4,"text":"来源：研究底稿.md 第 4、7 节；01_Zullo_2026_Crayfish_Films.pdf；02_Hromis_2026_Crayfish_Extraction.pdf。\n化学式为碳酸盐被酸化的净离子示意式。论文使用盐酸等酸性体系进行脱矿；具体浓度和操作仅作文献事实，不作为家庭复现实验建议。"}
+{"kind":"slide","id":"sl/uypan2","slide":5,"title":"小龙虾壳制环保塑料袋","textShapes":14}
+{"kind":"textbox","id":"sh/d4vi9gzi","slide":5,"text":"小龙虾壳制环保塑料袋","textPreview":"小龙虾壳制环保塑料袋","textChars":10,"textLines":1,"bbox":[64,34,360,24]}
+{"kind":"textbox","id":"sh/q1kzelgr","slide":5,"text":"反应二：脱乙酰让几丁质变成壳聚糖","textPreview":"反应二：脱乙酰让几丁质变成壳聚糖","textChars":16,"textLines":1,"bbox":[64,66,1120,58]}
+{"kind":"shape","id":"sh/b2t07qhc","slide":5,"bbox":[64,132,1152,0]}
+{"kind":"textbox","id":"sh/of2hcby1","slide":5,"text":"几丁质与壳聚糖的差别，藏在高分子链上的“侧基”里。","textPreview":"几丁质与壳聚糖的差别，藏在高分子链上的“侧基”里。","textChars":25,"textLines":1,"bbox":[72,172,1040,34]}
+{"kind":"shape","id":"sh/pgbi5gzm","slide":5,"bbox":[80,246,480,164]}
+{"kind":"textbox","id":"sh/2dkza1gv","slide":5,"text":"几丁质","textPreview":"几丁质","textChars":3,"textLines":1,"bbox":[112,272,150,34]}
+{"kind":"textbox","id":"sh/3et036hg","slide":5,"text":"—NHCOCH₃","textPreview":"—NHCOCH₃","textChars":8,"textLines":1,"bbox":[112,326,240,44]}
+{"kind":"textbox","id":"sh/gb2h8byp","slide":5,"text":"乙酰基较多\n在水中几乎不溶","textPreview":"乙酰基较多 | 在水中几乎不溶","textChars":13,"textLines":2,"bbox":[370,300,140,60]}
+{"kind":"shape","id":"sh/1cby1wza","slide":5,"bbox":[586,296,76,48]}
+{"kind":"textbox","id":"sh/h476hcva","slide":5,"text":"浓碱 + 加热\n脱去一部分乙酰基","textPreview":"浓碱 + 加热 | 脱去一部分乙酰基","textChars":16,"textLines":2,"bbox":[552,360,190,56]}
+{"kind":"shape","id":"sh/w3e5o7ep","slide":5,"bbox":[710,246,480,164]}
+{"kind":"textbox","id":"sh/v25of2d4","slide":5,"text":"壳聚糖","textPreview":"壳聚糖","textChars":3,"textLines":1,"bbox":[742,272,150,34]}
+{"kind":"textbox","id":"sh/u1wnmxwj","slide":5,"text":"—NH₂","textPreview":"—NH₂","textChars":4,"textLines":1,"bbox":[742,326,180,44]}
+{"kind":"textbox","id":"sh/90n6dsvy","slide":5,"text":"氨基增多\n可被稀酸质子化并溶解","textPreview":"氨基增多 | 可被稀酸质子化并溶解","textChars":15,"textLines":2,"bbox":[980,300,170,60]}
+{"kind":"shape","id":"sh/8ze5knet","slide":5,"bbox":[140,468,1000,92]}
+{"kind":"textbox","id":"sh/7y5obid8","slide":5,"text":"示意式：—NHCOCH₃ + OH⁻  →  —NH₂ + CH₃COO⁻ + H₂O","textPreview":"示意式：—NHCOCH₃ + OH⁻  →  —NH₂ + CH₃COO⁻ + H₂O","textChars":43,"textLines":1,"bbox":[182,494,920,38]}
+{"kind":"textbox","id":"sh/mdwnixwn","slide":5,"text":"真实体系是高分子链上的“部分脱乙酰”，脱乙酰度会影响溶解性、强度和成膜表现。","textPreview":"真实体系是高分子链上的“部分脱乙酰”，脱乙酰度会影响溶解性、强度和成膜表现。","textChars":38,"textLines":1,"bbox":[102,594,1040,32]}
+{"kind":"textbox","id":"sh/lc3m9sv2","slide":5,"text":"讲解材料 · 研究底稿与开放论文整理","textPreview":"讲解材料 · 研究底稿与开放论文整理","textChars":18,"textLines":1,"bbox":[64,686,780,18]}
+{"kind":"textbox","id":"sh/kbu5gneh","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1160,680,56,26]}
+{"kind":"notes","id":"nt/uypan2","slide":5,"text":"来源：研究底稿.md 第 4、8 节；01_Zullo_2026_Crayfish_Films.pdf；02_Hromis_2026_Crayfish_Extraction.pdf；03_Kadak_2023_Crayfish_Chitosan.xml。\n说明：本页用结构片段和净变化示意解释脱乙酰，实际反应发生在多糖链上且不会 100% 完全转化。论文中的脱乙酰步骤使用高浓度氢氧化钠和高温，属于实验室高风险操作。"}
+{"kind":"slide","id":"sl/7jtzi8","slide":6,"title":"小龙虾壳制环保塑料袋","textShapes":16}
+{"kind":"textbox","id":"sh/432xwn69","slide":6,"text":"小龙虾壳制环保塑料袋","textPreview":"小龙虾壳制环保塑料袋","textChars":10,"textLines":1,"bbox":[64,34,360,24]}
+{"kind":"textbox","id":"sh/j2tg3ipo","slide":6,"text":"反应三：壳聚糖溶液怎样变成一张膜？","textPreview":"反应三：壳聚糖溶液怎样变成一张膜？","textChars":17,"textLines":1,"bbox":[64,66,1120,58]}
+{"kind":"shape","id":"sh/i10fuxo3","slide":6,"bbox":[64,132,1152,0]}
+{"kind":"textbox","id":"sh/h0ry1s7i","slide":6,"text":"成膜不是“把粉末压薄”，而是让高分子先溶解，再在干燥时重新排成连续网络。","textPreview":"成膜不是“把粉末压薄”，而是让高分子先溶解，再在干燥时重新排成连续网络。","textChars":36,"textLines":1,"bbox":[72,170,1100,42]}
+{"kind":"shape","id":"sh/wzixsn6d","slide":6,"bbox":[72,246,520,128]}
+{"kind":"textbox","id":"sh/vy9gzips","slide":6,"text":"壳聚糖 + 稀醋酸","textPreview":"壳聚糖 + 稀醋酸","textChars":9,"textLines":1,"bbox":[108,270,400,34]}
+{"kind":"textbox","id":"sh/ux0fqdo7","slide":6,"text":"—NH₂ + H⁺  ⇌  —NH₃⁺","textPreview":"—NH₂ + H⁺  ⇌  —NH₃⁺","textChars":19,"textLines":1,"bbox":[120,322,390,36]}
+{"kind":"textbox","id":"sh/9wryx87m","slide":6,"text":"氨基被质子化后，聚合物更容易分散在水相里。","textPreview":"氨基被质子化后，聚合物更容易分散在水相里。","textChars":21,"textLines":1,"bbox":[92,394,470,54]}
+{"kind":"shape","id":"sh/8bixo361","slide":6,"bbox":[610,290,62,44]}
+{"kind":"shape","id":"sh/e5gz6xgf","slide":6,"bbox":[706,246,480,128]}
+{"kind":"textbox","id":"sh/z6pgf2x0","slide":6,"text":"加入甘油","textPreview":"加入甘油","textChars":4,"textLines":1,"bbox":[742,270,390,34]}
+{"kind":"textbox","id":"sh/07yh87yl","slide":6,"text":"增塑剂：让链段更容易移动","textPreview":"增塑剂：让链段更容易移动","textChars":12,"textLines":1,"bbox":[742,322,390,30]}
+{"kind":"textbox","id":"sh/187ihcf6","slide":6,"text":"浇铸 → 脱泡 → 干燥","textPreview":"浇铸 → 脱泡 → 干燥","textChars":12,"textLines":1,"bbox":[118,492,420,34]}
+{"kind":"shape","id":"sh/qhwz2xgj","slide":6,"bbox":[126,560,434,0]}
+{"kind":"shape","id":"sh/ri5gb2x4","slide":6,"bbox":[126,540,18,40]}
+{"kind":"shape","id":"sh/c3yh47y9","slide":6,"bbox":[332,540,18,40]}
+{"kind":"shape","id":"sh/d47ydcfu","slide":6,"bbox":[538,540,18,40]}
+{"kind":"textbox","id":"sh/2dwzydg7","slide":6,"text":"液体","textPreview":"液体","textChars":2,"textLines":1,"bbox":[94,602,80,24]}
+{"kind":"textbox","id":"sh/3e5g7ixs","slide":6,"text":"薄层","textPreview":"薄层","textChars":2,"textLines":1,"bbox":[300,602,80,24]}
+{"kind":"textbox","id":"sh/7i1wzedk","slide":6,"text":"连续膜","textPreview":"连续膜","textChars":3,"textLines":1,"bbox":[506,602,100,24]}
+{"kind":"shape","id":"sh/6hsv6twz","slide":6,"bbox":[706,448,480,170]}
+{"kind":"textbox","id":"sh/tk3e1ovq","slide":6,"text":"薄膜的两面性","textPreview":"薄膜的两面性","textChars":6,"textLines":1,"bbox":[742,470,400,28]}
+{"kind":"textbox","id":"sh/sjax8je5","slide":6,"text":"链间氢键让它有强度\n甘油让它不那么脆\n但水会重新破坏链间作用","textPreview":"链间氢键让它有强度 | 甘油让它不那么脆 | 但水会重新破坏链间作用","textChars":30,"textLines":3,"bbox":[760,520,370,90]}
+{"kind":"textbox","id":"sh/fmlw3ydw","slide":6,"text":"讲解材料 · 研究底稿与开放论文整理","textPreview":"讲解材料 · 研究底稿与开放论文整理","textChars":18,"textLines":1,"bbox":[64,686,780,18]}
+{"kind":"textbox","id":"sh/ulcfatwb","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1160,680,56,26]}
+{"kind":"notes","id":"nt/7jtzi8","slide":6,"text":"来源：研究底稿.md 第 3、6 节；04_Chitosan_Starch_2022.pdf；05_CornStarch_Chitosan_2021.pdf。\n示意：壳聚糖氨基在酸性水相中质子化，之后随水分蒸发形成连续膜。甘油常作为增塑剂，能提高柔韧性，但可能牺牲强度并增加吸水。"}
+{"kind":"slide","id":"sl/5hw8gs","slide":7,"title":"小龙虾壳制环保塑料袋","textShapes":11}
+{"kind":"textbox","id":"sh/qxsfq50f","slide":7,"text":"小龙虾壳制环保塑料袋","textPreview":"小龙虾壳制环保塑料袋","textChars":10,"textLines":1,"bbox":[64,34,360,24]}
+{"kind":"textbox","id":"sh/d0jel0zq","slide":7,"text":"从薄膜到袋子：真正难的是“用起来”","textPreview":"从薄膜到袋子：真正难的是“用起来”","textChars":17,"textLines":1,"bbox":[64,66,1120,58]}
+{"kind":"shape","id":"sh/czaxsvil","slide":7,"bbox":[64,132,1152,0]}
+{"kind":"shape","id":"sh/2t8fml03","slide":7,"bbox":[72,220,148,82]}
+{"kind":"textbox","id":"sh/pwjeh0zu","slide":7,"text":"膜","textPreview":"膜","textChars":1,"textLines":1,"bbox":[88,234,110,28]}
+{"kind":"textbox","id":"sh/4vqxovi9","slide":7,"text":"厚度均匀\n不易脆裂","textPreview":"厚度均匀 | 不易脆裂","textChars":9,"textLines":2,"bbox":[252,228,380,52]}
+{"kind":"shape","id":"sh/nqlgrah8","slide":7,"bbox":[130,310,32,22]}
+{"kind":"shape","id":"sh/mpcfyp0n","slide":7,"bbox":[72,340,148,82]}
+{"kind":"textbox","id":"sh/4nmdsj65","slide":7,"text":"裁切","textPreview":"裁切","textChars":2,"textLines":1,"bbox":[88,354,110,28]}
+{"kind":"textbox","id":"sh/58vulo7q","slide":7,"text":"尺寸一致\n边缘不撕裂","textPreview":"尺寸一致 | 边缘不撕裂","textChars":10,"textLines":2,"bbox":[252,348,380,52]}
+{"kind":"shape","id":"sh/il4bq9of","slide":7,"bbox":[130,430,32,22]}
+{"kind":"shape","id":"sh/jmdcjep0","slide":7,"bbox":[72,460,148,82]}
+{"kind":"textbox","id":"sh/wjmtoz69","slide":7,"text":"连接","textPreview":"连接","textChars":2,"textLines":1,"bbox":[88,474,110,28]}
+{"kind":"textbox","id":"sh/hkvuh47u","slide":7,"text":"封边可靠\n提手不脱落","textPreview":"封边可靠 | 提手不脱落","textChars":10,"textLines":2,"bbox":[252,468,380,52]}
+{"kind":"shape","id":"sh/uhkbm9o3","slide":7,"bbox":[72,580,630,54]}
+{"kind":"textbox","id":"sh/vitcfupo","slide":7,"text":"袋子是否合格，要看干态、湿态、接缝和提手。","textPreview":"袋子是否合格，要看干态、湿态、接缝和提手。","textChars":21,"textLines":1,"bbox":[96,592,580,28]}
+{"kind":"textbox","id":"sh/8f2tkzqd","slide":7,"text":"讲解材料 · 研究底稿与开放论文整理","textPreview":"讲解材料 · 研究底稿与开放论文整理","textChars":18,"textLines":1,"bbox":[64,686,780,18]}
+{"kind":"textbox","id":"sh/9gbud47i","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1160,680,56,26]}
+{"kind":"image","id":"im/udczulkf","slide":7,"name":"","geometry":"roundRect","alt":"项目视频中的袋膜和成品袋演示","bbox":[770,170,446,430]}
+{"kind":"notes","id":"nt/5hw8gs","slide":7,"text":"来源：研究底稿.md 第 1、2 节；项目视频约 4:40–5:30、7:40 以后。\n项目视频展示了可成形的袋膜与手工演示，但没有提供购物袋所需的静载、反复提举、提手撕裂、接缝强度和湿态数据。图中“合格”是测试维度，不是项目已通过认证的结论。"}
+{"kind":"slide","id":"sl/qww0p7","slide":8,"title":"小龙虾壳制环保塑料袋","textShapes":13}
+{"kind":"textbox","id":"sh/gfy94fed","slide":8,"text":"小龙虾壳制环保塑料袋","textPreview":"小龙虾壳制环保塑料袋","textChars":10,"textLines":1,"bbox":[64,34,360,24]}
+{"kind":"textbox","id":"sh/fepsvaxs","slide":8,"text":"材料性能的核心矛盾：强度、柔韧性和耐水性","textPreview":"材料性能的核心矛盾：强度、柔韧性和耐水性","textChars":20,"textLines":1,"bbox":[64,66,1120,58]}
+{"kind":"shape","id":"sh/edgr2pw7","slide":8,"bbox":[64,132,1152,0]}
+{"kind":"textbox","id":"sh/tc7atkfm","slide":8,"text":"同一张膜里，分子间作用力和水分子一直在“拉扯”。","textPreview":"同一张膜里，分子间作用力和水分子一直在“拉扯”。","textChars":24,"textLines":1,"bbox":[72,170,1040,34]}
+{"kind":"shape","id":"sh/sby90feh","slide":8,"bbox":[70,240,340,240]}
+{"kind":"textbox","id":"sh/rapsraxw","slide":8,"text":"高分子链靠近","textPreview":"高分子链靠近","textChars":6,"textLines":1,"bbox":[100,270,280,34]}
+{"kind":"textbox","id":"sh/6pwry5wb","slide":8,"text":"氢键\n静电作用\n链缠结","textPreview":"氢键 | 静电作用 | 链缠结","textChars":11,"textLines":3,"bbox":[120,338,240,100]}
+{"kind":"textbox","id":"sh/5onap0fq","slide":8,"text":"强度 ↑","textPreview":"强度 ↑","textChars":4,"textLines":1,"bbox":[130,448,220,28]}
+{"kind":"shape","id":"sh/4ne9wve5","slide":8,"bbox":[454,330,62,48]}
+{"kind":"shape","id":"sh/ml0fupkn","slide":8,"bbox":[552,240,340,240]}
+{"kind":"textbox","id":"sh/nm9w3u18","slide":8,"text":"加入甘油","textPreview":"加入甘油","textChars":4,"textLines":1,"bbox":[582,270,280,34]}
+{"kind":"textbox","id":"sh/8nixwz2t","slide":8,"text":"链段更容易移动\n伸长率 ↑\n强度可能下降","textPreview":"链段更容易移动 | 伸长率 ↑ | 强度可能下降","textChars":20,"textLines":3,"bbox":[582,338,280,108]}
+{"kind":"shape","id":"sh/9ore54je","slide":8,"bbox":[934,330,62,48]}
+{"kind":"shape","id":"sh/yxgfqpkb","slide":8,"bbox":[1032,240,174,240]}
+{"kind":"textbox","id":"sh/zypwzu1w","slide":8,"text":"遇水","textPreview":"遇水","textChars":2,"textLines":1,"bbox":[1050,270,138,34]}
+{"kind":"textbox","id":"sh/0zyxsf2h","slide":8,"text":"吸水\n溶胀\n变软","textPreview":"吸水 | 溶胀 | 变软","textChars":8,"textLines":3,"bbox":[1050,344,138,102]}
+{"kind":"shape","id":"sh/lk7e1kj2","slide":8,"bbox":[170,550,950,72]}
+{"kind":"textbox","id":"sh/qtwfm5kf","slide":8,"text":"所以“能成膜”不等于“能装湿东西”，更不等于“能替代所有塑料袋”。","textPreview":"所以“能成膜”不等于“能装湿东西”，更不等于“能替代所有塑料袋”。","textChars":33,"textLines":1,"bbox":[204,571,880,32]}
+{"kind":"textbox","id":"sh/bupwva10","slide":8,"text":"讲解材料 · 研究底稿与开放论文整理","textPreview":"讲解材料 · 研究底稿与开放论文整理","textChars":18,"textLines":1,"bbox":[64,686,780,18]}
+{"kind":"textbox","id":"sh/fm1k7mdg","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1160,680,56,26]}
+{"kind":"notes","id":"nt/qww0p7","slide":8,"text":"来源：研究底稿.md 第 2、3、8 节；04_Chitosan_Starch_2022.pdf；05_CornStarch_Chitosan_2021.pdf；06_Chitosan_Cellulose_2024.pdf。\n论文和底稿共同指出：甘油常提高柔韧性但降低强度；壳聚糖/淀粉复合膜吸水明显；纤维素可作为增强方向。具体数值因配方与测试条件而异。"}
+{"kind":"slide","id":"sl/60yb8i","slide":9,"title":"小龙虾壳制环保塑料袋","textShapes":9}
+{"kind":"textbox","id":"sh/47mh8j2p","slide":9,"text":"小龙虾壳制环保塑料袋","textPreview":"小龙虾壳制环保塑料袋","textChars":10,"textLines":1,"bbox":[64,34,360,24]}
+{"kind":"textbox","id":"sh/3mdgfe14","slide":9,"text":"视频证明了什么，还没有证明什么？","textPreview":"视频证明了什么，还没有证明什么？","textChars":16,"textLines":1,"bbox":[64,66,1120,58]}
+{"kind":"shape","id":"sh/2lkz69kj","slide":9,"bbox":[64,132,1152,0]}
+{"kind":"shape","id":"sh/gj2h4j2d","slide":9,"bbox":[650,180,255,410]}
+{"kind":"textbox","id":"sh/fitgbe1s","slide":9,"text":"视频展示","textPreview":"视频展示","textChars":4,"textLines":1,"bbox":[680,208,190,30]}
+{"kind":"textbox","id":"sh/uhkz29kn","slide":9,"text":"壳的清洗、粉碎和酸碱处理\n\n白色固体与商品壳聚糖对照\n\n薄膜浇铸、干燥和手工拉扯\n\n袋子可以被拿起来展示","textPreview":"壳的清洗、粉碎和酸碱处理 |  | 白色固体与商品壳聚糖对照 |  | 薄膜浇铸、干燥和手工拉扯 |  | 袋子可以被拿起来展示","textChars":52,"textLines":7,"bbox":[680,266,190,276]}
+{"kind":"shape","id":"sh/1gfip8ji","slide":9,"bbox":[930,180,280,410]}
+{"kind":"textbox","id":"sh/0f6hg32x","slide":9,"text":"尚未证明","textPreview":"尚未证明","textChars":4,"textLines":1,"bbox":[960,208,220,30]}
+{"kind":"textbox","id":"sh/q94j6xon","slide":9,"text":"稳定的提取收率和纯度\n\n干湿态拉伸、接缝和提手强度\n\n标准化生物降解或堆肥结果\n\n食品接触、迁移和卫生合规","textPreview":"稳定的提取收率和纯度 |  | 干湿态拉伸、接缝和提手强度 |  | 标准化生物降解或堆肥结果 |  | 食品接触、迁移和卫生合规","textChars":53,"textLines":7,"bbox":[960,266,220,276]}
+{"kind":"textbox","id":"sh/badkfi58","slide":9,"text":"把“看起来像袋子”与“可以作为商品使用”分开，是材料研发最重要的判断。","textPreview":"把“看起来像袋子”与“可以作为商品使用”分开，是材料研发最重要的判断。","textChars":35,"textLines":1,"bbox":[100,620,1060,30]}
+{"kind":"textbox","id":"sh/cbm18n6t","slide":9,"text":"讲解材料 · 研究底稿与开放论文整理","textPreview":"讲解材料 · 研究底稿与开放论文整理","textChars":18,"textLines":1,"bbox":[64,686,780,18]}
+{"kind":"textbox","id":"sh/dcv2hsne","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1160,680,56,26]}
+{"kind":"image","id":"im/47ud4bq9","slide":9,"name":"","geometry":"roundRect","alt":"项目视频抽帧联系图","bbox":[70,180,520,410]}
+{"kind":"notes","id":"nt/60yb8i","slide":9,"text":"来源：研究底稿.md 第 1、2 节；项目视频全片抽帧核对。\n本页是证据边界说明：视频能够证明演示样品出现了相应操作和形态，但不能替代材料表征、力学测试、降解测试或食品接触合规测试。"}
+{"kind":"slide","id":"sl/wui466","slide":10,"title":"安全与环保，要一起算","textShapes":9}
+{"kind":"textbox","id":"sh/hkz6po7a","slide":10,"text":"安全与环保，要一起算","textPreview":"安全与环保，要一起算","textChars":10,"textLines":1,"bbox":[64,44,760,56]}
+{"kind":"textbox","id":"sh/ux8net8z","slide":10,"text":"原料来自废弃物，不会自动让整条路线低风险、低影响。","textPreview":"原料来自废弃物，不会自动让整条路线低风险、低影响。","textChars":25,"textLines":1,"bbox":[66,112,900,34]}
+{"kind":"shape","id":"sh/fihony9k","slide":10,"bbox":[70,210,530,340]}
+{"kind":"textbox","id":"sh/4nq5k3q1","slide":10,"text":"实验安全","textPreview":"实验安全","textChars":4,"textLines":1,"bbox":[102,244,460,32]}
+{"kind":"textbox","id":"sh/poj6t87m","slide":10,"text":"浓酸：腐蚀、放热、产生气泡\n热浓碱：深部灼伤，不能在家尝试\n废液：酸碱洗涤液不能直接倒下水道\n成品：未经检测，不接触食品或饮水","textPreview":"浓酸：腐蚀、放热、产生气泡 | 热浓碱：深部灼伤，不能在家尝试 | 废液：酸碱洗涤液不能直接倒下水道 | 成品：未经检测，不接触食品或饮水","textChars":63,"textLines":4,"bbox":[104,310,460,180]}
+{"kind":"shape","id":"sh/2l8nit8v","slide":10,"bbox":[670,210,540,340]}
+{"kind":"textbox","id":"sh/3mhorypg","slide":10,"text":"环境判断","textPreview":"环境判断","textChars":4,"textLines":1,"bbox":[702,244,480,32]}
+{"kind":"textbox","id":"sh/kr658zqx","slide":10,"text":"看原料：是否利用了餐厨废弃物\n看过程：酸碱、水、热能和添加剂用了多少\n看去向：最终在什么条件下分解\n看替代：是否真的减少了整体环境负担","textPreview":"看原料：是否利用了餐厨废弃物 | 看过程：酸碱、水、热能和添加剂用了多少 | 看去向：最终在什么条件下分解 | 看替代：是否真的减少了整体环境负担","textChars":67,"textLines":4,"bbox":[704,310,470,180]}
+{"kind":"shape","id":"sh/5sf6h4r2","slide":10,"bbox":[170,590,940,54]}
+{"kind":"textbox","id":"sh/94zyd8ve","slide":10,"text":"“可降解”是一个需要测试条件的结论，不是材料名字的同义词。","textPreview":"“可降解”是一个需要测试条件的结论，不是材料名字的同义词。","textChars":29,"textLines":1,"bbox":[196,603,888,26]}
+{"kind":"textbox","id":"sh/836x43et","slide":10,"text":"讲解材料 · 安全边界来自研究底稿与论文条件核对","textPreview":"讲解材料 · 安全边界来自研究底稿与论文条件核对","textChars":24,"textLines":1,"bbox":[64,686,780,18]}
+{"kind":"textbox","id":"sh/72xgbyx8","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1160,680,56,26]}
+{"kind":"notes","id":"nt/wui466","slide":10,"text":"来源：研究底稿.md 第 7 节。\n强调：高浓度氢氧化钠脱乙酰属于最高危步骤之一；本项目当前建议路线是先采购规格明确的壳聚糖做低危膜样，不在家庭环境复现虾壳提取。成品膜暂按非食品接触材料处理。"}
+{"kind":"slide","id":"sl/hqkfe1","slide":11,"title":"小龙虾壳制环保塑料袋","textShapes":15}
+{"kind":"textbox","id":"sh/6lszu1gv","slide":11,"text":"小龙虾壳制环保塑料袋","textPreview":"小龙虾壳制环保塑料袋","textChars":10,"textLines":1,"bbox":[64,34,360,24]}
+{"kind":"textbox","id":"sh/tojipgfm","slide":11,"text":"最现实的研发顺序：先验证材料，再追溯原料","textPreview":"最现实的研发顺序：先验证材料，再追溯原料","textChars":20,"textLines":1,"bbox":[64,66,1120,58]}
+{"kind":"shape","id":"sh/8nahwby1","slide":11,"bbox":[64,132,1152,0]}
+{"kind":"shape","id":"sh/jy10j6xk","slide":11,"bbox":[72,220,340,260]}
+{"kind":"shape","id":"sh/yx8zq1gz","slide":11,"bbox":[72,220,340,14]}
+{"kind":"textbox","id":"sh/lkjilwfq","slide":11,"text":"阶段 1","textPreview":"阶段 1","textChars":4,"textLines":1,"bbox":[98,260,100,26]}
+{"kind":"textbox","id":"sh/kjahsry5","slide":11,"text":"先买规格明确的壳聚糖","textPreview":"先买规格明确的壳聚糖","textChars":10,"textLines":1,"bbox":[98,302,286,64]}
+{"kind":"textbox","id":"sh/buh0fmx8","slide":11,"text":"用稀醋酸 + 甘油做可重复膜样\n先找到“成膜窗口”","textPreview":"用稀醋酸 + 甘油做可重复膜样 | 先找到“成膜窗口”","textChars":25,"textLines":2,"bbox":[98,392,286,70]}
+{"kind":"shape","id":"sh/at8zmhg3","slide":11,"bbox":[460,220,340,260]}
+{"kind":"shape","id":"sh/ojmhc32p","slide":11,"bbox":[460,220,340,14]}
+{"kind":"textbox","id":"sh/9kvy58ja","slide":11,"text":"阶段 2","textPreview":"阶段 2","textChars":4,"textLines":1,"bbox":[486,260,100,26]}
+{"kind":"textbox","id":"sh/mh4zadkz","slide":11,"text":"再做袋膜性能","textPreview":"再做袋膜性能","textChars":6,"textLines":1,"bbox":[486,302,286,64]}
+{"kind":"textbox","id":"sh/nidg3y1k","slide":11,"text":"记录厚度、湿态、接缝和提手\n一次只改变一个变量","textPreview":"记录厚度、湿态、接缝和提手 | 一次只改变一个变量","textChars":23,"textLines":2,"bbox":[486,392,286,70]}
+{"kind":"shape","id":"sh/0f2h832t","slide":11,"bbox":[848,220,340,260]}
+{"kind":"shape","id":"sh/1gvy18je","slide":11,"bbox":[848,220,340,14]}
+{"kind":"textbox","id":"sh/etkz6tkn","slide":11,"text":"阶段 3","textPreview":"阶段 3","textChars":4,"textLines":1,"bbox":[874,260,100,26]}
+{"kind":"textbox","id":"sh/zetgzy18","slide":11,"text":"最后做虾壳提取","textPreview":"最后做虾壳提取","textChars":7,"textLines":1,"bbox":[874,302,286,64]}
+{"kind":"textbox","id":"sh/kb6hkn2x","slide":11,"text":"在有通风柜、耐腐蚀设备和废液流程的实验室\n验证收率、脱乙酰度和批次一致性","textPreview":"在有通风柜、耐腐蚀设备和废液流程的实验室 | 验证收率、脱乙酰度和批次一致性","textChars":36,"textLines":2,"bbox":[874,392,286,70]}
+{"kind":"textbox","id":"sh/lcfidsji","slide":11,"text":"今天应该记住的三句话","textPreview":"今天应该记住的三句话","textChars":10,"textLines":1,"bbox":[72,548,320,28]}
+{"kind":"textbox","id":"sh/t8byxsbm","slide":11,"text":"1  虾壳先被拆成几丁质，再转成可成膜的壳聚糖。\n2  袋子的难点是湿态强度、接缝和一致性。\n3  环保与安全都要用测试和完整流程来证明。","textPreview":"1  虾壳先被拆成几丁质，再转成可成膜的壳聚糖。 | 2  袋子的难点是湿态强度、接缝和一致性。 | 3  环保与安全都要用测试和完整流程来证明。","textChars":69,"textLines":3,"bbox":[72,590,1050,82]}
+{"kind":"textbox","id":"sh/s72hona1","slide":11,"text":"讲解材料 · 研究底稿与开放论文整理","textPreview":"讲解材料 · 研究底稿与开放论文整理","textChars":18,"textLines":1,"bbox":[64,686,780,18]}
+{"kind":"textbox","id":"sh/76tgvitw","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1160,680,56,26]}
+{"kind":"notes","id":"nt/hqkfe1","slide":11,"text":"来源：研究底稿.md 第 3、6、7 节。\n这是当前底稿给出的最短材料路线：先用采购壳聚糖建立可重复膜样，再进入袋膜性能，最后才投入自提壳聚糖的设备与试剂。"}
+{"kind":"slide","id":"sl/8tpcfl","slide":12,"title":"小龙虾壳制环保塑料袋","textShapes":11}
+{"kind":"textbox","id":"sh/fmd8bep0","slide":12,"text":"小龙虾壳制环保塑料袋","textPreview":"小龙虾壳制环保塑料袋","textChars":10,"textLines":1,"bbox":[64,34,360,24]}
+{"kind":"textbox","id":"sh/gnmp4j6l","slide":12,"text":"资料来源与本次讲解的边界","textPreview":"资料来源与本次讲解的边界","textChars":12,"textLines":1,"bbox":[64,66,1120,58]}
+{"kind":"shape","id":"sh/1ovqdo76","slide":12,"bbox":[64,132,1152,0]}
+{"kind":"textbox","id":"sh/2po769or","slide":12,"text":"项目资料","textPreview":"项目资料","textChars":4,"textLines":1,"bbox":[72,180,300,30]}
+{"kind":"textbox","id":"sh/3qx8fepc","slide":12,"text":"• 研究底稿.md（2026-09-30）\n• 如何用小龙虾制造可降解塑料袋.mp4\n• 项目视频抽帧：\n  video_0_250.jpg、video_250_500.jpg\n  video_contact_sheet.jpg","textPreview":"• 研究底稿.md（2026-09-30） | • 如何用小龙虾制造可降解塑料袋.mp4 | • 项目视频抽帧： |   video_0_250.jpg、video_250_500.jpg |   video_contact_sheet.jpg","textChars":114,"textLines":5,"bbox":[72,224,600,142]}
+{"kind":"textbox","id":"sh/or698j6x","slide":12,"text":"开放论文","textPreview":"开放论文","textChars":4,"textLines":1,"bbox":[72,394,300,30]}
+{"kind":"textbox","id":"sh/psfqho7i","slide":12,"text":"01 Zullo 2026 · Molecules · 10.3390/molecules31162819\n02 Hromiš 2026 · Gels · 10.3390/gels12080664\n03 Kadak 2023 · International Journal of Biology · 10.30498/ijb.2023.323958.3253\n04 Chitosan–Starch 2022 · Polymers · 10.3390/polym14020278\n05 Cornstarch–Chitosan 2021 · Polymers · 10.3390/polym13244431\n06 Chitosan–Cellulose 2024 · Polymers · 10.3390/polym16050568","textPreview":"01 Zullo 2026 · Molecules · 10.3390/molecules31162819 | 02 Hromiš 2026 · Gels · 10.3390/gels12080664 | 03 Kadak 2023 · International Jour...","textChars":363,"textLines":6,"bbox":[72,438,650,156]}
+{"kind":"shape","id":"sh/atoraton","slide":12,"bbox":[790,198,390,350]}
+{"kind":"textbox","id":"sh/bux8jyp8","slide":12,"text":"读者提示","textPreview":"读者提示","textChars":4,"textLines":1,"bbox":[824,236,320,30]}
+{"kind":"textbox","id":"sh/ned8fy58","slide":12,"text":"这套PPT用于科普讲解。\n\n它解释化学逻辑与研发判断，\n不替代实验室 SOP、SDS、\n材料检测或食品接触法规。\n\n任何“可降解”“环保”“安全”\n都应对应具体测试条件。","textPreview":"这套PPT用于科普讲解。 |  | 它解释化学逻辑与研发判断， | 不替代实验室 SOP、SDS、 | 材料检测或食品接触法规。 |  | 任何“可降解”“环保”“安全” | 都应对应具体测试条件。","textChars":85,"textLines":8,"bbox":[824,288,320,210]}
+{"kind":"textbox","id":"sh/2t47mton","slide":12,"text":"谢谢","textPreview":"谢谢","textChars":2,"textLines":1,"bbox":[920,604,220,48]}
+{"kind":"textbox","id":"sh/pgvqh8ne","slide":12,"text":"资料页 · 项目文件与开放获取论文","textPreview":"资料页 · 项目文件与开放获取论文","textChars":17,"textLines":1,"bbox":[64,686,780,18]}
+{"kind":"textbox","id":"sh/ofm9o36t","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1160,680,56,26]}
+{"kind":"notes","id":"nt/8tpcfl","slide":12,"text":"来源清单与边界说明。论文文件保存在工作区 papers/ 目录；项目底稿明确指出直接制膜研究的原料物种、配方和测试条件不能直接照搬为商品袋方案。"}

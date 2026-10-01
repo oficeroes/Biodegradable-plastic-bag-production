@@ -1,0 +1,15 @@
+# Local dependencies and system metadata
+node_modules/
+.codex-finalizer/
+
+# Common operating-system files
+.DS_Store
+Thumbs.db
+~$*.xlsx
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Student member records: excluded from this public repository
+outputs/01a0f6b6-782d-7380-8c3a-668a2556b9b7/
