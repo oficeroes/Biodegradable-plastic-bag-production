@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">小龙虾壳制袋探究的现阶段证据路径</title>
+  <desc id="desc">左侧是已整理的视频证据和文献，中央是产率口径与实验规划，右侧标明本组实验仍待开展。</desc>
+  <rect width="1200" height="360" fill="#fffdfa"/>
+  <path d="M48 79H1152" stroke="#ccd7d8" stroke-width="2"/>
+  <text x="48" y="54" fill="#153c49" font-size="25" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-weight="700">从演示到可验证的问题</text>
+  <text x="1148" y="53" fill="#7b888b" font-size="15" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" text-anchor="end">资料研究 · 尚无本组批次实验</text>
+  <path d="M155 192H1025" stroke="#a9bcbd" stroke-width="3" stroke-dasharray="6 8"/>
+  <g font-family="Noto Sans SC, Microsoft YaHei, sans-serif">
+    <circle cx="165" cy="192" r="31" fill="#e9f1f0" stroke="#2b777c" stroke-width="2"/>
+    <text x="165" y="200" text-anchor="middle" fill="#2b777c" font-size="23" font-weight="700">01</text>
+    <text x="165" y="139" text-anchor="middle" fill="#153c49" font-size="23" font-weight="700">视频观察</text>
+    <text x="165" y="254" text-anchor="middle" fill="#52676b" font-size="18">称量、配方、补做片段</text>
+    <circle cx="445" cy="192" r="31" fill="#e9f1f0" stroke="#2b777c" stroke-width="2"/>
+    <text x="445" y="200" text-anchor="middle" fill="#2b777c" font-size="23" font-weight="700">02</text>
+    <text x="445" y="139" text-anchor="middle" fill="#153c49" font-size="23" font-weight="700">证据复核</text>
+    <text x="445" y="254" text-anchor="middle" fill="#52676b" font-size="18">数字口径与缺失数据</text>
+    <circle cx="725" cy="192" r="31" fill="#e9f1f0" stroke="#2b777c" stroke-width="2"/>
+    <text x="725" y="200" text-anchor="middle" fill="#2b777c" font-size="23" font-weight="700">03</text>
+    <text x="725" y="139" text-anchor="middle" fill="#153c49" font-size="23" font-weight="700">实验规划</text>
+    <text x="725" y="254" text-anchor="middle" fill="#52676b" font-size="18">基线膜样与批次记录</text>
+    <circle cx="1010" cy="192" r="31" fill="#fff1e8" stroke="#c37148" stroke-width="2"/>
+    <text x="1010" y="200" text-anchor="middle" fill="#ad5f37" font-size="23" font-weight="700">04</text>
+    <text x="1010" y="139" text-anchor="middle" fill="#153c49" font-size="23" font-weight="700">本组实测</text>
+    <text x="1010" y="254" text-anchor="middle" fill="#ad5f37" font-size="18">待开展</text>
+    <text x="48" y="330" fill="#7b888b" font-size="14">说明图据项目资料绘制 · 视频画面与文献结果不等于本组实验</text>
+  </g>
+</svg>
