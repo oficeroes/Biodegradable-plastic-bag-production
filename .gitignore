@@ -11,5 +11,17 @@ Thumbs.db
 __pycache__/
 *.py[cod]
 
+# Office rendering and document QA working files
+.docx_qa/
+qa_video_full/
+qa_lab_new/
+qa_bag_new/
+
+# Project description sources contain student names in the original drafts
+/项目简介*.docx
+/项目简介*.pdf
+/项目简介.docx
+deliverables/
+
 # Student member records: excluded from this public repository
 outputs/01a0f6b6-782d-7380-8c3a-668a2556b9b7/
