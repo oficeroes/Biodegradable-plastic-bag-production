@@ -23,5 +23,8 @@ qa_bag_new/
 /项目简介.docx
 deliverables/
 
+# The illustrated PDF is an approved project deliverable
+!/项目简介_卡通版.pdf
+
 # Student member records: excluded from this public repository
 outputs/01a0f6b6-782d-7380-8c3a-668a2556b9b7/
